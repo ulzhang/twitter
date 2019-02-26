@@ -25,3 +25,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Concepts Learned
+- API Request/Response
+- Login/Logout
+- UserDefaults/Stay Logged In
+- Loading Data into Table View Cells
+- Pull to Refresh
+- Infinite Scroll
+- XCode Refactoring
