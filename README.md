@@ -49,7 +49,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/3uzLnpu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/a/PulhxL8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Concepts Learned
 - API Request/Response
